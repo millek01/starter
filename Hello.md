@@ -1,1 +1,2 @@
-I want to go through the intro steps
+I have gone through the intro steps
+And now I'm changing the code
